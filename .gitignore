@@ -1,0 +1,8 @@
+node_modules
+*.log
+.npmrc
+.firebase
+.firebaserc
+firebase.json
+src/.vuepress/dist
+package-lock.json

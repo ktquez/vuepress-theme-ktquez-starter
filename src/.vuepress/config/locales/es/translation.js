@@ -1,0 +1,63 @@
+module.exports = {
+  // Geral
+  back: 'Atrás',
+  home: 'Home',
+  author: 'Autor',
+  authors: 'Autores',
+  posts: 'artículos',
+  post: 'artículo',
+  page: 'Página',
+  category: 'Categoria',
+  categories: 'Categorias',
+  navigation: 'Navegación',
+  see_post: 'ver post',
+  see_all_posts: 'ver todos los artículos',
+  no_search_results: 'Ningún resultado encontrado',
+  more_posts: 'Más artículos',
+  related_posts: 'Artículos relacionados',
+  all_posts_author: 'Todos los artículos de',
+  share: 'Compartir',
+  see_demo: 'Ver demo',
+  table_content: 'Índice',
+  avatar_of: 'Foto avatar de',
+  joined: 'Desde',
+  article: 'Artículo',
+  text_comments: '¿Nos deja un comentario, qué usted encontró?',
+  tip_contact: 'Póngase en contacto con nosotros',
+  title_contact: '¿Quieres hacer una alianza? Vamos a charlar, tomar un café.',
+  refresh: 'Actualización',
+  has_loaded: 'se ha cargado',
+  turnon_night_mode: 'Activar modo nocturno',
+  turnoff_night_mode: 'Desactivar modo nocturno',
+  skip_to_main_content: 'Saltar al contenido principal',
+  // No posts
+  no_more_posts: 'En breve tendremos más artículos',
+  no_categories: 'Actualmente no tenemos categorías',
+  no_author_posts: 'El autor aún no ha publicado ningún artículo',
+  no_category_posts: 'En breve tendremos artículos para esa categoría',
+  // Newsletter
+  stay_in: 'Quede por dentro',
+  news_title: 'Recibe nuestros contenidos más recientes directamente en tu bandeja de entrada.',
+  subscribe: 'registro',
+  // 404 page
+  title_404: 'Opsss! Usted está perdido, le ayudaré.',
+  text_404: 'Nos disculpamos por el inconveniente que si por casualidad el enlace que ha hecho clic se ha reducido, pero resolvemos esto fácil, simplemente haga clic en el botón de abajo para volver a la página principal <br> Nos vemos por ahí.',
+  back_to_homepage: 'Volver a la página de inicio',
+  // Traduzindo path das rotas
+  path_route_categories: 'categorias',
+  path_route_posts: 'posts',
+  path_route_authors: 'autores',
+  path_route_contact: 'contacto',
+  path_route_about: 'sobre',
+  path_route_privacy: 'privacidad',
+  path_route_search: 'pesquisar',
+  // Aria
+  aria_label_search: 'Escriba sobre qué asunto desea buscar',
+  labelledby_cat_card_post: 'Ver todos los mensajes de la categoría',
+  labelledby_post_card_post: 'Ver último post',
+  // Placeholders
+  ph_search: 'Encuentre un artículo...',
+  ph_email: 'Introduzca aquí su email',
+  // service workers
+  new_content: 'Nuevo contenido disponible'
+}

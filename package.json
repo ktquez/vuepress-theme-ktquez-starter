@@ -1,0 +1,35 @@
+{
+  "name": "your-name-app",
+  "version": "0.1.0",
+  "description": "Descripton your webapp",
+  "scripts": {
+    "dev": "node_modules/.bin/vuepress dev src",
+    "build": "node_modules/.bin/vuepress build src"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "vuepress",
+    "vuepress-theme",
+    "site",
+    "blog",
+    "theme-ktquez",
+    "markdown",
+    "static",
+    "vuejs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "vuepress": "^0.14.2"
+  },
+  "dependencies": {
+    "vuepress-theme-ktquez": "^0.1.27"
+  }
+}
