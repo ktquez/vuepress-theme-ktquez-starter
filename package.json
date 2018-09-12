@@ -30,6 +30,6 @@
     "vuepress": "^0.14.2"
   },
   "dependencies": {
-    "vuepress-theme-ktquez": "^0.2.5"
+    "vuepress-theme-ktquez": "^0.2.6"
   }
 }
