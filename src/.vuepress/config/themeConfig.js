@@ -9,6 +9,12 @@ module.exports = {
     '/pt/': pt,
     '/es/': es
   },
+  serviceWorker: {
+    updatePopup: { 
+      message: "New content 🎉🎉", 
+      buttonText: "Update" 
+    }
+  },
   disqus: 'ktquez',
   url: `https://MY_DOMAIN.COM`,
   cdn: '',
