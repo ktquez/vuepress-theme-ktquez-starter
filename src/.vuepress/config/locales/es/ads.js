@@ -8,7 +8,7 @@ module.exports = [
     },
     by: {
       text: 'udemy.com',
-      link: 'http://bit.ly/all-courses-udemy'
+      link: `YOUR_AFFILIATE_LINK`
     }
   },
   {
@@ -20,7 +20,7 @@ module.exports = [
     },
     by: {
       text: 'udemy.com',
-      link: 'http://bit.ly/all-courses-udemy'
+      link: `YOUR_AFFILIATE_LINK`
     }
   }
 ]
