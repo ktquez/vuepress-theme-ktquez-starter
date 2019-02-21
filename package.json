@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/ktquez/vuepress-theme-ktquez-starter"
   },
   "keywords": [
     "vuepress",
@@ -20,16 +20,16 @@
     "static",
     "vuejs"
   ],
-  "author": "",
+  "author": "Alan Ktquez <ktquez@gmail.com> (https://ktquez.com/)",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/ktquez/vuepress-theme-ktquez-starter/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/ktquez/vuepress-theme-ktquez#readme",
   "devDependencies": {
     "vuepress": "^0.14.2"
   },
   "dependencies": {
-    "vuepress-theme-ktquez": "^0.2.14"
+    "vuepress-theme-ktquez": "^0.2.15"
   }
 }
